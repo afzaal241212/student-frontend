@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="form-container">
-      <h2>Student Registration</h2>
+      <h2>Register New Student</h2>
       <form onSubmit={handleSubmit} className="form">
         <input
           name="name"
